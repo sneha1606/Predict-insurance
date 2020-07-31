@@ -10,6 +10,11 @@ This project is used to predict the insurance value for a customer through linea
 
 The accuracy of the model obtained is approximately 70%
 
-The Steps used for the following are as followed:
+*The Steps used for the following are as followed:*
 
+1.	Data Collection
+2.	Data Cleaning
+3.	Data Exploration
+4.	Model Building
+5.	Explaining Model
 
