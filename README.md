@@ -10,6 +10,14 @@ This project is used to predict the insurance value for a customer through linea
 
 The accuracy of the model obtained is approximately 70%
 
+*The Packages used for the project are mentioned below:*
+1. Pandas
+2. Numpy
+3. Sklearn
+4. Seaborn
+5. Matplotlib
+
+
 *The Steps used for the following are as followed:*
 
 1.	Data Collection
