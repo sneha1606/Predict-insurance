@@ -1,2 +1,15 @@
 # Predict-insurance
-This project is used to predict the insurance value for a customer with certain parameters
+
+This project is used to predict the insurance value for a customer through linear regression model with parameters which are as followed, 
+1. Age
+2. Sex
+3. BMI
+4. No. of Children
+5. Smoker 
+6. Region
+
+The accuracy of the model obtained is approximately 70%
+
+The Steps used for the following are as followed:
+
+
